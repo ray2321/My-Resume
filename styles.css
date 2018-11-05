@@ -1,0 +1,41 @@
+img {
+    width : 300px;
+    height : 300px ;
+}
+body{
+    background-color : pink ;
+    
+}
+
+h1 {
+    color: white ;
+}
+h2 {
+    color : white;
+}
+    h2 {
+        color : white ;
+    }
+    li {
+        color : white ;
+    }
+    li {
+        font-size : 20px ;
+    }
+    
+    li {
+        font-family: 'Poor Story', cursive;
+    }
+    h2 {
+        font-family: 'PT Sans Narrow', sans-serif;
+    }
+    
+    p {
+    font-size : 30px;
+    }
+    p {
+        color : grey ;
+    } 
+ 
+    
+    
